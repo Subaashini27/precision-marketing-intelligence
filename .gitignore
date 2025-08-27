@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# ML artifacts (keep out of git)
+ml_pipeline/**/*.pkl
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
