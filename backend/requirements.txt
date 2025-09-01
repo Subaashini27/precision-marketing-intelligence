@@ -20,3 +20,8 @@ requests==2.31.0
 aiofiles==23.2.1
 python-multipart==0.0.6
 httpx==0.25.2
+
+# Email support dependencies
+aiosmtplib==3.0.1
+jinja2==3.1.2
+email-validator==2.1.0
